@@ -116,7 +116,7 @@ a {
 
 .credit {
   position: absolute;
-  top: 35%;
+  top: 50%;
   left: 50%;
   transform: translateX(-50%);
   color: rgba(255, 255, 255, 0.7);
@@ -124,4 +124,6 @@ a {
   font-size: 14px;
   font-style: italic;
   letter-spacing: 1px;
+  width: 100%;
+  text-align: center;
 }
