@@ -44,6 +44,10 @@
     font-size: 32px;
     letter-spacing: 0;
   }
+    .credit {
+    top: 40%;
+    font-size: 13px;
+  }
 }
 
 @keyframes typing {
